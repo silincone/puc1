@@ -1,4 +1,4 @@
-// C++ Program to find the area and circumference of a circle.
+// C++ program to find the area and circumference of a circle.
 #include <iostream>
 
 #define PI 3.14159
@@ -18,7 +18,7 @@ int main()
     // calculating the circumference of a circle with given radius.
     circumference = 2 * PI * radius;
 
-    // printing the calculated area and circumference of a circle with given radius.
+    // printing the calculated area and circumference.
     cout << "Area: " << area << "\n";
     cout << "Circumference: " << circumference;
 }
