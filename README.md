@@ -9,3 +9,4 @@ Has the following C++ programs:
   - C++ program to input total amount in a bill, if the amount is greater than 1000, a discount of 8% is given, otherwise, no output is given. Print the total amount, discount, and the final amount. (Using if-statement) [[click](/7.cpp)]
   - C++ program to check whether the given year is leap year or not. (Using if-else statement) [[click](/8.cpp)]
   - C++ program to check whether the given character is in upper-case or in lower-case. [[click](/9.cpp)]
+  - C++ program to input the number of units of electricity consumed in a house an calculate the final amount using nested-if statement. [[click](/10.cpp)]
