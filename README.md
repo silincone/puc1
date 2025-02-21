@@ -11,3 +11,4 @@ Has the following C++ programs:
   - C++ program to check whether the given character is in upper-case or in lower-case. [[click](/9.cpp)]
   - C++ program to input the number of units of electricity consumed in a house and calculate the final amount using nested-if statement. [[click](/10.cpp)]
   - C++ program to input the marks of four subjects and calculate the total, percentage and print the result as either "First class" or "Second class" or "Pass" or "Fail" using switch statement. [[click](/11.cpp)]
+  - C++ program to find the sum of all the digits of a number using while statement. [[click](/12.cpp)]
