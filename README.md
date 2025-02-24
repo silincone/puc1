@@ -15,3 +15,4 @@ Has the following C++ programs:
   - C++ program to input principal amount, rate of interest, and time period, and calculate the compound interest using while statement. [[click](/13.cpp)]
   - C++ program to check whether a given number is a power of 2. [[click](/14.cpp)]
   - C++ program to check whether a given number is an Armstrong number or not using do-while statement. [[click](/15.cpp)]
+  - C++ program to find the factorial of a number using for statement. [[click](/16.cpp)]
