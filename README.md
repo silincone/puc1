@@ -14,3 +14,4 @@ Has the following C++ programs:
   - C++ program to find the sum of all the digits of a number using while statement. [[click](/12.cpp)]
   - C++ program to input principal amount, rate of interest, and time period, and calculate the compound interest using while statement. [[click](/13.cpp)]
   - C++ program to check whether a given number is a power of 2. [[click](/14.cpp)]
+  - C++ program to check whether a given number is an Armstrong number or not using do-while statement. [[click](/15.cpp)]
