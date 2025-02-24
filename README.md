@@ -12,3 +12,4 @@ Has the following C++ programs:
   - C++ program to input the number of units of electricity consumed in a house and calculate the final amount using nested-if statement. [[click](/10.cpp)]
   - C++ program to input the marks of four subjects and calculate the total, percentage and print the result as either "First class" or "Second class" or "Pass" or "Fail" using switch statement. [[click](/11.cpp)]
   - C++ program to find the sum of all the digits of a number using while statement. [[click](/12.cpp)]
+  - C++ program to input principal amount, rate of interest, and time period, and calculate the compound interest using while statement. [[click](/13.cpp)]
