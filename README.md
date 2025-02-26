@@ -21,3 +21,4 @@ Has the following C++ programs:
   - C++ program to find the largest and the second largest of 'n' numbers. [[click](/19.cpp)]
   - C++ program to arrange a list of numbers in ascending order. (Bubble sort) [[click](/20.cpp)]
   - C++ program to find the position of a given number in an array. [[click](/21.cpp)]
+  - C++ program to check whether the given matrix is scalar or not. [[click](/22.cpp)]
