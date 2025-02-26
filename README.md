@@ -20,3 +20,4 @@ Has the following C++ programs:
   - C++ program to find the sum and average of 'n' numbers. [[click](/18.cpp)]
   - C++ program to find the largest and the second largest of 'n' numbers. [[click](/19.cpp)]
   - C++ program to arrange a list of numbers in ascending order. (Bubble sort) [[click](/20.cpp)]
+  - C++ program to find the position of a given number in an array. [[click](/21.cpp)]
