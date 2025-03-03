@@ -23,3 +23,4 @@ Has the following C++ programs:
   - C++ program to find the position of a given number in an array. [[click](/21.cpp)]
   - C++ program to check whether the given matrix is scalar or not. [[click](/22.cpp)]
   - C++ program to find the sum of elements present in all the rows and columns of a matrix separately. [[click](/23.cpp)]
+  - C++ program to find the sum of two compatible matrices. [[click](/24.cpp)]
