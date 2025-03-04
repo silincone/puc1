@@ -21,9 +21,9 @@ int main()
     }
 
     // sorting the list of numbers in ascending order.
-    for(i = 0; i < number; ++i) 
+    for(i = 0; i < (number - 1); ++i) 
     {
-        for(j = 0; j < (number - i); ++j)
+        for(j = 0; j < (number - i - 1); ++j)
         {
             if(a[j] > a[j + 1])
             {
